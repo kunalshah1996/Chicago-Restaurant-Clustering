@@ -73,7 +73,7 @@ venv.bak/
 
 # csv and json files
 *.csv
-#*.json
+*.json
 
 # others
-#data/
+data/
