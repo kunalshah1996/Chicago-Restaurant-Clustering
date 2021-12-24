@@ -35,4 +35,4 @@ This notebook reads data from finaldataframe_fuzzy_alliterations.csv file and me
 4. Analysis_Clustering_Visualization.ipynb:<br>
 This notebook reads data from “Both dataset merged.csv” and performs EDA analysis, KMeans clustering, neighbourhoods fetching from google API, cluster plotting on folium and cluster analysis. This is the final result of our project.<br>
 
-<b?Note: All the .csv and .json files are data files. The 'Food_Inspections.csv' is missing since it exceeds GitHub's maximum upload size limit. You can download it using the link for the Chicago Food Inspection Daaset mnetioned in the Project Report file titled 'Project Report.pdf'.</b>
+<b>Note: All the .csv and .json files are data files. The 'Food_Inspections.csv' is missing since it exceeds GitHub's maximum upload size limit. You can download it using the link for the Chicago Food Inspection Daaset mnetioned in the Project Report file titled 'Final Report.pdf'.</b>
