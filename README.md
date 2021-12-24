@@ -10,9 +10,9 @@
 • Assigned a neighborhood to each cluster and performed Analyzed the clusters to suggest clusters to users based on food preferences, or potential restaurateurs planning to open a new restaurant in Chicago, based on cuisine, competition, business failure rate, etc.<br>
 
 The project contains the following Jupyter notebooks:<br>
-1. Yelp_API_Extractor.ipynb<br><br><br><br>
+1. Yelp_API_Extractor.ipynb<br>
 2. Similarity_Matching.ipynb<br>
-3. Dataset_Merging.ipynb<br><br>
+3. Dataset_Merging.ipynb<br>
 4. EDA_Clustering_Visualization.ipynb<br>
 
 
