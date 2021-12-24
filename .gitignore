@@ -72,8 +72,8 @@ venv.bak/
 .mypy_cache/
 
 # csv and json files
-*.csv
-*.json
+#*.csv
+#*.json
 
 # others
 data/
