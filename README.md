@@ -37,4 +37,4 @@ This notebook reads data from “Both dataset merged.csv” and performs EDA ana
 
 <b>Note: All the .csv and .json files are data files. The 'Food_Inspections.csv' is missing since it exceeds GitHub's maximum upload size limit. You can download it using the link for the Chicago Food Inspection Daaset mentioned in the Project Report file titled 'Final Report.pdf'.<br>
   
-Note: GitHub may not be able to render folium maps. Also, it may not be able to render some large Jupyter Notebook file in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around. Alternatively, you can copy paste the GitHub URL to the notebook at https://nbviewer.jupyter.org/ to render it.<b?
+Note: GitHub may not be able to render folium maps. Also, it may not be able to render some large Jupyter Notebook file in one go, so kindly reload it a few times to view the Notebook, if it does not load the first time around. Alternatively, you can copy paste the GitHub URL to the notebook at https://nbviewer.jupyter.org/ to render it.</b>
